@@ -1,5 +1,5 @@
 body {
-    background-color: #c52d60;
+    background-color: #ca3969;
     color: rgb(255, 237, 244);
     font-family: 'Lucida Sans';
     margin: 10px;
@@ -55,3 +55,17 @@ a:hover {
     font-style: bold;
 }
 
+#dance-button {
+    background-color: #ffa1bf;
+    color: rgb(255, 237, 244);
+    font-family: 'Lucida Sans';
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#dance-button:hover {
+        background-color: #e94e7f;
+        color: #c52d60;
+    }
